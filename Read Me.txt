@@ -1,3 +1,0 @@
---->Do a Java application that have login in the main, insert and display data into the data base with the differents pages.
---->I have Design graphical interface using JFrame in Netbeans and insert the Data in Student page
---->I want to do update, delete, cancel, exit and display but i can't 
